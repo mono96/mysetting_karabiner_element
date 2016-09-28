@@ -1,0 +1,16 @@
+{
+    "profiles": [
+        {
+            "name": "Default profile",
+            "selected": true,
+            "simple_modifications": {
+                "international2": "right_gui",
+                "international4": "lang1",
+                "international5": "lang2",
+                "caps_lock": "left_control",
+                "left_alt": "left_gui",
+                "left_gui" : "left_alt"
+            }
+        }
+    ]
+}
